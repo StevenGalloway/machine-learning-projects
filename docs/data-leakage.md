@@ -18,7 +18,7 @@ improperly used to create the model.
 -   Time-based splits for temporal data
 -   Strict feature governance
 
-Example: https://github.com/example/data-leakage-lab
+Example: (Insert Example Repo when completed)
 
 ------------------------------------------------------------------------
 

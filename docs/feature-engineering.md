@@ -8,7 +8,7 @@ overfitting.
 **Methods** - Filter (correlation, mutual information) - Wrapper (RFE,
 forward selection) - Embedded (LASSO, tree-based importance)
 
-Example: https://github.com/example/feature-selection
+Example: (Insert Example Repo when completed)
 
 ## Missing Value Imputation
 
@@ -17,17 +17,13 @@ Handling missing data to avoid bias or model failure.
 **Methods** - Mean/median imputation - KNN imputation - Model-based
 imputation
 
-Example: https://github.com/example/missing-imputation
+Example: (Insert Example Repo when completed)
 
 ## Loss Functions
 
 Measure how well a model fits the data.
 
 **Examples** - MSE (regression) - Cross Entropy (classification)
-
-## Cross Entropy
-
-$$ L = -\sum y \log(\hat{y}) $$
 
 ## False Positives vs False Negatives
 
@@ -41,6 +37,6 @@ $$ L = -\sum y \log(\hat{y}) $$
 Splitting data into multiple folds to estimate generalization
 performance.
 
-Example: https://github.com/example/cross-validation
+Example: (Insert Example Repo when completed)
 
 ------------------------------------------------------------------------

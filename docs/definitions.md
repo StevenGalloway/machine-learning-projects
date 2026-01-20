@@ -10,7 +10,7 @@ Regression, Random Forest, Neural Networks\
 - **Classification** (predict categories): Logistic Regression, Decision
 Trees, Gradient Boosting
 
-Example repo: https://github.com/example/supervised-ml-lab
+Example repo: (Insert Example Repo when completed)
 
 **Pros** - High predictive accuracy when labels are reliable - Easier
 evaluation (clear ground truth)
@@ -29,7 +29,7 @@ Models learn structure from unlabeled data by discovering patterns in
 reduction (PCA, t-SNE, UMAP) - Density estimation (Gaussian Mixture
 Models)
 
-Example repo: https://github.com/example/unsupervised-ml-lab
+Example repo: (Insert Example Repo when completed)
 
 **Pros** - Works when labels are unavailable - Useful for exploration
 and anomaly detection

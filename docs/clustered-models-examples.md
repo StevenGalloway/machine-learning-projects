@@ -5,9 +5,6 @@
 **Idea:** Partition data into `k` clusters by minimizing within-cluster
 variance.
 
-**Objective (math):**
-$$ J = \sum_{i=1}^{n} \sum_{j=1}^{k} I(c_i = j) ||x_i - \mu_j||^2 $$
-
 **Diagram (conceptual):**
 
     Raw Data → Assign to Nearest Centroid → Recompute Centroids → Repeat → Final Clusters
@@ -20,7 +17,7 @@ Document clustering
 **Cons** - Requires choosing `k` - Struggles with non-spherical
 clusters - Sensitive to outliers
 
-Example: https://github.com/example/kmeans-clustering
+Example: (Insert Example Repo when completed)
 
 ------------------------------------------------------------------------
 
@@ -30,7 +27,7 @@ Improves K-Means initialization to avoid poor local minima.
 
 **Benefit:** Better and more stable clusters with fewer iterations.
 
-Example: https://github.com/example/kmeans-plusplus
+Example: (Insert Example Repo when completed)
 
 ------------------------------------------------------------------------
 
@@ -54,7 +51,7 @@ outliers
 
 **Cons** - Sensitive to `eps` - Struggles with varying density
 
-Example: https://github.com/example/dbscan-clustering
+Example: (Insert Example Repo when completed)
 
 ------------------------------------------------------------------------
 
@@ -70,7 +67,7 @@ analysis
 
 **Cons** - Computationally expensive
 
-Example: https://github.com/example/spectral-clustering
+Example: (Insert Example Repo when completed)
 
 ------------------------------------------------------------------------
 
@@ -83,7 +80,7 @@ Assumes data is generated from a mixture of Gaussian distributions.
 **Use cases** - Density estimation - Anomaly detection - Speaker
 diarization
 
-Example: https://github.com/example/gmm-clustering
+Example: (Insert Example Repo when completed)
 
 ------------------------------------------------------------------------
 
@@ -99,7 +96,7 @@ autoencoders + K-Means).
 **Use cases** - Image clustering - Representation learning - Large-scale
 segmentation
 
-Example: https://github.com/example/deep-clustering
+Example: (Insert Example Repo when completed)
 
 ------------------------------------------------------------------------
 
@@ -112,7 +109,7 @@ regression behavior).
 
 **Use cases** - Trend-based grouping - Behavioral segmentation
 
-Example: https://github.com/example/linear-regression-cluster
+Example: (Insert Example Repo when completed)
 
 ------------------------------------------------------------------------
 

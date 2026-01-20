@@ -1,4 +1,4 @@
-# FEATURE STORE --- DEEP DIVE (NEW)
+# FEATURE STORE
 
 ## What is a Feature Store?
 
@@ -30,4 +30,4 @@ to training/serving skew.
 -   **Label Leakage:** Labels computed with future information
 -   **Backfill Bugs:** Inconsistent historical data
 
-Example: https://github.com/example/feature-store-lab
+Example: (Insert Example Repo when completed)

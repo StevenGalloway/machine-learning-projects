@@ -1,5 +1,5 @@
 
-# DEPLOYMENT STRATEGIES --- DEEP DIVE (NEW)
+# DEPLOYMENT STRATEGIES
 
 ## Serving Modes
 
@@ -30,4 +30,4 @@
     -   Latency spikes
     -   Error rates
 
-🔗 Example: https://github.com/example/deployment-strategies
+🔗 Example: (Insert Example Repo when completed)

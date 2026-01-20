@@ -9,7 +9,7 @@ aligned with **FAANG-style expectations for Machine Learning Engineers**
 
 ------------------------------------------------------------------------
 
-## What skills does this repository demonstrate
+## What does this repository demonstrate
 
 -   End-to-end ownership of ML systems (not just model building)
 -   Strong fundamentals in math, statistics, and optimization
@@ -69,6 +69,144 @@ Each topic below links directly to its detailed documentation in
 
 See each document for detailed explanations, diagrams, and examples.
 
+# Tools & Stack Featured
 
+This repository demonstrates proficiency across the full ML lifecycle
+--- from data to modeling to production --- using a modern,
+industry-aligned toolchain. The tools below are organized by capability
+rather than category to emphasize **systems thinking, tradeoffs, and
+end-to-end ownership**. This is not a complete list of skills, only a 
+highlight of skills utilized or intended to be utilized in this 
+repository.
 
+------------------------------------------------------------------------
 
+## Core Programming & ML Foundations
+
+*Signals: technical depth, reproducibility, and engineering discipline.*
+
+-   **Python** --- primary language for data, modeling, and pipelines\
+    *Example:* (Insert Example Repo when completed)
+-   **NumPy** --- numerical computing, linear algebra, and optimization\
+    *Example:* (Insert Example Repo when completed)
+-   **Pandas** --- data manipulation, feature engineering, and analysis\
+    *Example:* (Insert Example Repo when completed)
+
+------------------------------------------------------------------------
+
+## Modeling & Algorithms
+
+*Signals: sound model selection, tradeoffs, and rigor.*
+
+-   **scikit-learn** --- baseline models, pipelines, evaluation, and CV\
+    *Example:* (Insert Example Repo when completed)
+-   **XGBoost / LightGBM** --- high-performance tabular modeling\
+    *Example:* (Insert Example Repo when completed)
+-   **PyTorch** --- representation learning and deep models (when
+    appropriate)\
+    *Example:* (Insert Example Repo when completed)
+
+------------------------------------------------------------------------
+
+## Feature Engineering & Data Quality
+
+*Signals: senior-level data thinking and leakage prevention.*
+
+-   **scikit-learn Pipelines** --- reproducible preprocessing +
+    training\
+    *Example:* (Insert Example Repo when completed)
+-   **Feature Selection (Filter/Wrapper/Embedded)** --- dimensionality
+    control\
+    *Example:* (Insert Example Repo when completed)
+-   **Missing Value Imputation** --- robust handling of incomplete data\
+    *Example:* (Insert Example Repo when completed)
+-   **Data Validation (Great Expectations)** --- data quality gates
+    (optional)\
+    *Example:* (Insert Example Repo when completed)
+
+------------------------------------------------------------------------
+
+## Experimentation & Model Evaluation
+
+*Signals: disciplined experimentation and business-aware evaluation.*
+
+-   **MLflow (or W&B)** --- experiment tracking and artifact logging\
+    *Example:* (Insert Example Repo when completed)
+-   **scikit-learn Metrics** --- precision/recall, ROC-AUC, calibration\
+    *Example:* (Insert Example Repo when completed)
+-   **Slice-Based Evaluation** --- performance by segment (fairness +
+    reliability)\
+    *Example:* (Insert Example Repo when completed)
+
+------------------------------------------------------------------------
+
+## MLOps & Production Systems
+
+*Signals: real-world ML system design (not just notebooks).*
+
+-   **Docker** --- containerized training and inference\
+    *Example:* (Insert Example Repo when completed)
+-   **FastAPI** --- real-time model serving APIs\
+    *Example:* (Insert Example Repo when completed)
+-   **GitHub Actions (CI/CD for ML)** --- automated tests and
+    deployments\
+    *Example:* (Insert Example Repo when completed)
+-   **Model Registry (MLflow)** --- versioning, approvals, and rollback\
+    *Example:* (Insert Example Repo when completed)
+
+------------------------------------------------------------------------
+
+## Feature Stores & Data Platforms
+
+*Signals: enterprise-scale data awareness and training/serving
+consistency.*
+
+-   **Databricks Feature Store (conceptual + examples)**\
+    *Example:* (Insert Example Repo when completed)
+-   **Delta Lake / Iceberg** --- reliable, versioned data lakes\
+    *Example:* (Insert Example Repo when completed)
+-   **Feast (open-source feature store)** --- portable feature
+    management\
+    *Example:* (Insert Example Repo when completed)
+
+------------------------------------------------------------------------
+
+## Deployment & Reliability
+
+*Signals: safe rollouts and production reliability.*
+
+-   **Batch / Streaming / Real-Time Inference Patterns**\
+    *Example:* (Insert Example Repo when completed)
+-   **Canary Releases & Shadow Testing** --- risk-controlled
+    deployments\
+    *Example:* (Insert Example Repo when completed)
+-   **Monitoring (Drift, Latency, Errors, Fairness)**\
+    *Example:* (Insert Example Repo when completed)
+
+------------------------------------------------------------------------
+
+## Responsible AI (Bias & Fairness)
+
+*Signals: mature, real-world ML judgment.*
+
+-   **Fairness Metrics (Demographic Parity, Equal Opportunity, Equalized
+    Odds)**\
+    *Example:* (Insert Example Repo when completed)
+-   **Bias-Aware Training & Calibration**\
+    *Example:* (Insert Example Repo when completed)
+-   **Model Cards & Documentation**\
+    *Example:* (Insert Example Repo when completed)
+
+------------------------------------------------------------------------
+
+## Mathematics & Optimization
+
+*Signals: interview readiness and conceptual depth.*
+
+-   **NumPy Linear Algebra** --- vectors, matrices, norms, distances\
+    *Example:* (Insert Example Repo when completed)
+-   **Gradient Descent (from scratch)** --- optimization intuition\
+    *Example:* (Insert Example Repo when completed)
+-   **Probability & Statistics in ML** --- Bayes, distributions,
+    uncertainty\
+    *Example:* (Insert Example Repo when completed)

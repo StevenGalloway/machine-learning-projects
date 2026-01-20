@@ -8,7 +8,7 @@ Used for predicting continuous outcomes.
 
 **Cons** - Assumes linear relationships
 
-Example: https://github.com/example/linear-regression
+Example: (Insert Example Repo when completed)
 
 ------------------------------------------------------------------------
 
@@ -22,7 +22,7 @@ $$ P(y=1|x) = \frac{1}{1 + e^{-w^Tx}} $$
 
 **Cons** - Assumes linear decision boundary
 
-Example: https://github.com/example/logistic-regression
+Example: (Insert Example Repo when completed)
 
 ------------------------------------------------------------------------
 
@@ -34,7 +34,7 @@ Splits data based on feature thresholds.
 
 **Cons** - Overfits easily
 
-Example: https://github.com/example/decision-trees
+Example: (Insert Example Repo when completed)
 
 ------------------------------------------------------------------------
 
@@ -46,7 +46,7 @@ Ensemble of decision trees using bagging.
 
 **Cons** - Less interpretable
 
-Example: https://github.com/example/random-forest
+Example: (Insert Example Repo when completed)
 
 ------------------------------------------------------------------------
 
@@ -58,7 +58,7 @@ Multi-layer models that learn complex representations.
 
 **Cons** - Requires lots of data - Less interpretable
 
-Example: https://github.com/example/neural-networks
+Example: (Insert Example Repo when completed)
 
 ------------------------------------------------------------------------
 

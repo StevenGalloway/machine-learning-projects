@@ -69,26 +69,13 @@ Each topic below links directly to its detailed documentation in
 
 # Featured Highlights
 
--   [Repo 1 Name](docs/definitions.md)
--   [Repo 2 Name](docs/mathematics-definitions.md)
--   [Repo 3 Name](docs/feature-engineering.md)
--   [Repo 4 Name](docs/data-leakage.md)
--   [Repo 5 Name](docs/clustered-models-examples.md)
--   [Repo 6 Name](docs/non-clustered-models-examples.md)
--   [Repo 7 Name](docs/feature-stores.md)
--   [Repo 8 Name](docs/mlops.md)
--   [Repo 9 Name](docs/model-deployment-strategies.md)
--   [Repo 10 Name](docs/model-evaluation.md)
+-   [Breast Cancer XGBoost](case-studies/breast-cancer-xgb/README.md)
 
 ------------------------------------------------------------------------
 
 # Featured Model Results
 
-Result 1 (images)
-Result 2 (images)
-Result 3 (images)
-Result 4 (images)
-Result 5 (images)
+-   [Breast Cancer XGBoost - Results](case-studies\breast-cancer-xgb\results\baseline_results.md)
 
 ------------------------------------------------------------------------
 
@@ -109,7 +96,7 @@ repository.
 ## Core Programming & ML Foundations
 
 -   **Python** --- primary language for data, modeling, and pipelines\
-    *Example:* (Insert Example Repo when completed)
+    *Example:* [Breast Cancer Identification](case-studies\breast-cancer-xgb\scripts\train_eval.py)
 -   **NumPy** --- numerical computing, linear algebra, and optimization\
     *Example:* (Insert Example Repo when completed)
 -   **Pandas** --- data manipulation, feature engineering, and analysis\
@@ -120,9 +107,9 @@ repository.
 ## Modeling & Algorithms
 
 -   **scikit-learn** --- baseline models, pipelines, evaluation, and CV\
-    *Example:* (Insert Example Repo when completed)
+    *Example:* [Breast Cancer Identification](case-studies\breast-cancer-xgb\scripts\train_eval.py)
 -   **XGBoost / LightGBM** --- high-performance tabular modeling\
-    *Example:* (Insert Example Repo when completed)
+    *Example:* [Breast Cancer Identification](case-studies\breast-cancer-xgb\scripts\train_eval.py)
 -   **PyTorch** --- representation learning and deep models (when
     appropriate)\
     *Example:* (Insert Example Repo when completed)

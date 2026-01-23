@@ -34,7 +34,9 @@ Splits data based on feature thresholds.
 
 **Cons** - Overfits easily
 
-Example: (Insert Example Repo when completed)
+Example: [Breast Cancer Identification](case-studies\breast-cancer-xgb\scripts\train_eval.py)
+Example: [Loan Approval Identification](case-studies\loan-approval-xgb\scripts\train_eval.py)
+
 
 ------------------------------------------------------------------------
 

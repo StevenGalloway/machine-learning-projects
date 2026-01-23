@@ -10,7 +10,7 @@ flowchart LR
   E --> D
 ```
 
-## Types of Bias (with examples)
+## Types of Bias
 
 -   **Sampling Bias:** Training data underrepresents rural users in a
     credit model, causing poorer performance for them.

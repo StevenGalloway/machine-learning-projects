@@ -10,7 +10,8 @@ Regression, Random Forest, Neural Networks\
 - **Classification** (predict categories): Logistic Regression, Decision
 Trees, Gradient Boosting
 
-Example repo: (Insert Example Repo when completed)
+Example repo: [Breast Cancer Identification](case-studies\breast-cancer-xgb\scripts\train_eval.py)
+Example repo: [Loan Approval](case-studies\loan-approval-xgb\scripts\train_eval.py)
 
 **Pros** - High predictive accuracy when labels are reliable - Easier
 evaluation (clear ground truth)

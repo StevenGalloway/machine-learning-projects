@@ -68,11 +68,13 @@ Power comes from **combining many weak models**.
 
 ### Loss Function
 
-Defines what “error” means.
+Defines what “error” means. The gap between a prediction and the true label into a penalty number.
+
+We want to lower the penalty number as much as possible.
 
 Examples:
 - Mean Squared Error (regression)
-- Log Loss (classification)
+- Log Loss (classification) (most popular) - Heavily punishes wrong predictions while rewarding correct predictions. Future trees learn from corrections made by previous trees.
 - Custom business loss functions
 
 ------------------------------------------------------------------------
@@ -146,7 +148,7 @@ In many real-world problems, XGBoost **outperforms deep learning**.
 - Fraud detection
 - Default prediction
 
-Example: (Insert Example Repo when completed)
+Example: [Loan Approval](case-studies\loan-approval-xgb\scripts\train_eval.py)
 
 ### Marketing
 - Customer churn

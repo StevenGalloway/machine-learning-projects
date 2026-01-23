@@ -70,12 +70,14 @@ Each topic below links directly to its detailed documentation in
 # Featured Highlights
 
 -   [Breast Cancer XGBoost](case-studies/breast-cancer-xgb/README.md)
+-   [Loan Approval XGBoost](case-studies/loan-approval-xgb/README.md)
 
 ------------------------------------------------------------------------
 
 # Featured Model Results
 
 -   [Breast Cancer XGBoost - Results](case-studies\breast-cancer-xgb\results\baseline_results.md)
+-   [Loan Approval XGBoost - Results](case-studies\loan-approval-xgb\results\baseline_results.md)
 
 ------------------------------------------------------------------------
 
@@ -98,9 +100,9 @@ repository.
 -   **Python** --- primary language for data, modeling, and pipelines\
     *Example:* [Breast Cancer Identification](case-studies\breast-cancer-xgb\scripts\train_eval.py)
 -   **NumPy** --- numerical computing, linear algebra, and optimization\
-    *Example:* (Insert Example Repo when completed)
+    *Example:* [Loan Approval](case-studies\breast-cancer-xgb\scripts\train_eval.py)
 -   **Pandas** --- data manipulation, feature engineering, and analysis\
-    *Example:* (Insert Example Repo when completed)
+    *Example:* [Loan Approval](case-studies\breast-cancer-xgb\scripts\train_eval.py)
 
 ------------------------------------------------------------------------
 
@@ -109,7 +111,7 @@ repository.
 -   **scikit-learn** --- baseline models, pipelines, evaluation, and CV\
     *Example:* [Breast Cancer Identification](case-studies\breast-cancer-xgb\scripts\train_eval.py)
 -   **XGBoost / LightGBM** --- high-performance tabular modeling\
-    *Example:* [Breast Cancer Identification](case-studies\breast-cancer-xgb\scripts\train_eval.py)
+    *Example:* [Loan Approval](case-studies\breast-cancer-xgb\scripts\train_eval.py)
 -   **PyTorch** --- representation learning and deep models (when
     appropriate)\
     *Example:* (Insert Example Repo when completed)

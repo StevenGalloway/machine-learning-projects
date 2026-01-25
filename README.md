@@ -52,18 +52,23 @@ aligned with **FAANG-style expectations for Machine Learning Engineers**
 Each topic below links directly to its detailed documentation in
 `docs/`:
 
--   [Core Definitions](docs/definitions.md)
--   [Mathematics for ML](docs/mathematics-definitions.md)
--   [Feature Engineering](docs/feature-engineering.md)
--   [Data Leakage](docs/data-leakage.md)
--   [Clustered Models](docs/clustered-models-examples.md)
--   [Non-Clustered Models](docs/non-clustered-models-examples.md)
--   [Feature Stores](docs/feature-stores.md)
--   [MLOps](docs/mlops.md)
--   [Model Deployment Strategies](docs/model-deployment-strategies.md)
--   [Model Evaluation Deep Dive](docs/model-evaluation.md)
--   [Bias & Fairness Tracking](docs/bias-fairness-tracking.md)
--   [ML Pipeline Best Practices](docs/best-practices.md)
+-   [Best Practices](docs/referential/best-practices.md)
+-   [Bias & Fairness Tracking](docs/referential/bias-fairness-tracking.md)
+-   [Clustered Models](docs/referential/clustered-models-examples.md)
+-   [Data Leakage](docs/referential/data-leakage.md)
+-   [Definitions](docs/referential/definitions.md)
+-   [Feature Engineering](docs/referential/feature-engineering.md)
+-   [Feature Stores](docs/referential/feature-stores.md)
+-   [K-Means Model](docs/referential/kmeans-model.md)
+-   [Mathematics for ML](docs/referential/mathematics-definitions.md)
+-   [MLOps](docs/referential/mlops.md)
+-   [Model Deployment Strategies](docs/referential/model-deployment-strategies.md)
+-   [Model Evaluation Deep Dive](docs/referential/model-evaluation.md)
+-   [Monte Carlo Simulations](docs/referential/monte-carlo-simulations.md)
+-   [Naives Bayes Model](docs/referential/naives-bayes-model.md)
+-   [Nueral Networks and Activation Functions](docs/referential/neural-networks-activation-functions.md)
+-   [Non-Clustered Models](docs/referential/non-clustered-models-examples.md)
+-   [Random Forest Models](docs/referential/random-forest-model.md)
 
 ------------------------------------------------------------------------
 
@@ -103,7 +108,7 @@ repository.
 
 ## Core Programming & ML Foundations
 
--   **Python** --- primary language for data, modeling, and pipelines/
+-   **Python** --- primary language for data, modeling, and pipelines\
     *Example:* [Breast Cancer Identification](case-studies/breast-cancer-xgb/scripts/train_eval.py)
 -   **NumPy** --- numerical computing, linear algebra, and optimization\
     *Example:* [Loan Approval](case-studies/breast-cancer-xgb/scripts/train_eval.py)

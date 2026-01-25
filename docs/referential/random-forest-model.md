@@ -4,16 +4,17 @@ Random Forest is an **ensemble supervised learning algorithm** that
 builds multiple **decision trees** and combines their predictions to
 produce a more accurate and robust final model.
 
-It is one of the most widely used algorithms in production due to its: -
-High predictive performance\
-- Resistance to overfitting\
-- Ability to handle nonlinear relationships\
+It is one of the most widely used algorithms in production due to its: 
+- High predictive performance
+- Resistance to overfitting
+- Ability to handle nonlinear relationships
 - Built-in feature importance
 
-Random Forest is used extensively in: - Credit scoring\
-- Fraud detection\
-- Customer churn prediction\
-- Medical diagnosis\
+Random Forest is used extensively in: 
+- Credit scoring
+- Fraud detection
+- Customer churn prediction
+- Medical diagnosis
 - Recommendation systems
 
 ------------------------------------------------------------------------
@@ -50,8 +51,9 @@ Trees partition feature space into **axis-aligned regions**.
 
 ### Bagging (Bootstrap Aggregation)
 
-Each tree is trained on a **bootstrap sample** of the dataset: - Sample
-with replacement - Approximately 63% unique samples per tree
+Each tree is trained on a **bootstrap sample** of the dataset: 
+- Sample with replacement 
+- Approximately 63% unique samples per tree
 
 This creates **decorrelated models**.
 
@@ -95,8 +97,8 @@ Regression: \[ `\hat{y}`{=tex} = `\frac{1}{n}`{=tex}
 Random Forest computes importance using: - Mean decrease in impurity
 (Gini / Entropy) - Permutation importance
 
-This allows: - Model interpretability\
-- Feature selection\
+This allows: - Model interpretability
+- Feature selection
 - Explainability reporting
 
 ------------------------------------------------------------------------
@@ -114,8 +116,9 @@ validation set needed
 Key parameters: - `n_estimators` - `max_depth` - `min_samples_split` -
 `max_features` - `bootstrap`
 
-These control: - Model complexity\
-- Bias/variance tradeoff\
+These control: 
+- Model complexity
+- Bias/variance tradeoff
 - Training time
 
 ------------------------------------------------------------------------
@@ -223,15 +226,3 @@ Customer Churn Prediction\
 
 Medical Classification\
 *Example:* (Insert Example Repo when completed)
-
-------------------------------------------------------------------------
-
-## Final Recruiter Signal
-
-Random Forest demonstrates: - Ensemble learning mastery\
-- Statistical robustness\
-- Practical ML engineering\
-- Strong production relevance
-
-It signals a practitioner who understands both: **model theory and
-real-world deployment constraints.**

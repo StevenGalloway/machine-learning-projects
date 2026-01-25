@@ -4,9 +4,9 @@ Monte Carlo methods are **stochastic simulation techniques** used to
 model **uncertainty and randomness** by performing large numbers of
 random experiments.
 
-Used in: - Finance\
-- Risk modeling\
-- Reinforcement learning\
+Used in: - Finance
+- Risk modeling
+- Reinforcement learning
 - Bayesian inference
 
 ------------------------------------------------------------------------
@@ -52,17 +52,17 @@ P_{21} & P_{22}
 
 ## Standard Workflow
 
-1.  Define stochastic process\
-2.  Sample random variables\
-3.  Simulate transitions\
+1.  Define stochastic process
+2.  Sample random variables
+3.  Simulate transitions
 4.  Aggregate statistics
 
 ------------------------------------------------------------------------
 
 ## MCMC
 
-Monte Carlo Markov Chain methods: - Metropolis-Hastings\
-- Gibbs Sampling\
+Monte Carlo Markov Chain methods: - Metropolis-Hastings
+- Gibbs Sampling
 - Hamiltonian MC
 
 ------------------------------------------------------------------------

@@ -49,7 +49,7 @@ Ensemble of decision trees using bagging.
 
 **Cons** - Less interpretable
 
-Example: (Insert Example Repo when completed)
+*Example:* [Ravens & Steelers Game Prediction (NFL) Random Forest Model](case-studies/nfl-game-prediction/scripts/nfl_game_prediction_random_forest.py)
 
 ------------------------------------------------------------------------
 

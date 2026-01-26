@@ -74,16 +74,18 @@ Each topic below links directly to its detailed documentation in
 
 # Featured Highlights
 
--   [Breast Cancer XGBoost](case-studies/breast-cancer-xgb/README.md)
--   [Loan Approval XGBoost](case-studies/loan-approval-xgb/README.md)
--   [Football Points Prediction Linear Regression](case-studies/football-points-prediction-linear-reg/README.md)
--   [Basketball Points Prediction Linear Regression](case-studies/basketball-points-prediction-linear-reg/README.md)
+-   [Ravens & Steelers Game Prediction (NFL) Random Forest Model](case-studies/nfl-game-prediction/README.md)
+-   [Breast Cancer XGBoost Model](case-studies/breast-cancer-xgb/README.md)
+-   [Loan Approval XGBoost Model](case-studies/loan-approval-xgb/README.md)
+-   [Football Points Prediction Linear Regression Model](case-studies/football-points-prediction-linear-reg/README.md)
+-   [Basketball Points Prediction Linear Regression Model](case-studies/basketball-points-prediction-linear-reg/README.md)
 -   [Text Send Identification Naives Bayes](case-studies/text-sender-identification-nb/README.md)
 
 ------------------------------------------------------------------------
 
 # Featured Model Results
 
+-   [Ravens & Steelers Game Prediction (NFL) - Results](case-studies/nfl-game-prediction/results/baseline_results.md)
 -   [Breast Cancer XGBoost - Results](case-studies/breast-cancer-xgb/results/baseline_results.md)
 -   [Loan Approval XGBoost - Results](case-studies/loan-approval-xgb/results/baseline_results.md)
 -   [Football Points Prediction (NFL) - Results](case-studies/football-points-prediction-linear-reg/results/baseline_results_nfl.md)
@@ -109,6 +111,7 @@ repository.
 ## Core Programming & ML Foundations
 
 -   **Python** --- primary language for data, modeling, and pipelines\
+    *Example:* [Ravens & Steelers Game Prediction (NFL) Random Forest Model](case-studies/nfl-game-prediction/scripts/nfl_game_prediction_random_forest.py)
     *Example:* [Breast Cancer Identification](case-studies/breast-cancer-xgb/scripts/train_eval.py)
 -   **NumPy** --- numerical computing, linear algebra, and optimization\
     *Example:* [Loan Approval](case-studies/breast-cancer-xgb/scripts/train_eval.py)
@@ -122,6 +125,7 @@ repository.
 
 -   **scikit-learn** --- baseline models, pipelines, evaluation, and CV\
     *Example:* [Breast Cancer Identification](case-studies/breast-cancer-xgb/scripts/train_eval.py)
+    *Example:* [Ravens & Steelers Game Prediction (NFL) Random Forest Model](case-studies/nfl-game-prediction/scripts/nfl_game_prediction_random_forest.py)
 -   **XGBoost / LightGBM** --- high-performance tabular modeling\
     *Example:* [Loan Approval](case-studies/breast-cancer-xgb/scripts/train_eval.py)
 -   **PyTorch** --- representation learning and deep models (when
